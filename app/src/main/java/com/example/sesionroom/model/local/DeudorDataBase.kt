@@ -1,7 +1,8 @@
-package com.example.sesionroom.model
+package com.example.sesionroom.model.local
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
+
 //Clase que no va a ser instanciada
 //el database se crea una sola vez, a cada susario se le crea un DAO
 //dentro del arrayof

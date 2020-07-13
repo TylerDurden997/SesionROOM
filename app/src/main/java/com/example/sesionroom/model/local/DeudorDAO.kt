@@ -1,4 +1,4 @@
-package com.example.sesionroom.model
+package com.example.sesionroom.model.local
 
 import androidx.room.*
 

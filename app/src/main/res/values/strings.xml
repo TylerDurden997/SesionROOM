@@ -17,4 +17,15 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="eliminar">Eliminar</string>
     <string name="title_delete">Delete</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">Acceder</string>
+    <string name="registro">Registrar</string>
+    <string name="login_correo">Correo electrónico</string>
+    <string name="login_contrasena">Contraseña</string>
+    <string name="login_acceder">Acceder</string>
+    <string name="login_registro">Registrar</string>
+    <string name="registro_registrar">Registrar</string>
+    <string name="registro_correo">Ingrese Correo Electrónico</string>
+    <string name="registro_contrasena">Ingrese Contraseña</string>
 </resources>
