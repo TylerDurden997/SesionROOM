@@ -28,4 +28,5 @@
     <string name="registro_registrar">Registrar</string>
     <string name="registro_correo">Ingrese Correo Electrónico</string>
     <string name="registro_contrasena">Ingrese Contraseña</string>
+    <string name="title_list">List</string>
 </resources>
